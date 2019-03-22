@@ -6,4 +6,4 @@ Materials from presentations, talks, and workshops I've given. I'm happy to pres
 * iOS & macOS development
 * Software architectue
 
-**Twitter**: [@__chefski__](https://twitter.com/__chefski__)
+**Twitter**: [@\_\_chefski\_\_](https://twitter.com/__chefski__)
